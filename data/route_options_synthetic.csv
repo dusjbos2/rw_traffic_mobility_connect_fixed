@@ -1,0 +1,7 @@
+option,via,km,minutes now,minutes normally,delay min,uses staged incident,horizon
+Fastest now,Link Bigogwe – Nyabirasi,18.82454362961903,209.71815700331086,209.71815700331086,0.0,False,now
+Alternative 1,Link Nyabirasi – Rambura → Link Rambura – Bigogwe,54.75285126620493,226.87696119406223,207.46974908113555,19.407212112926686,True,now
+Alternative 2,Link Nyabirasi – Muhanda → Link Bigogwe – Muzo → Link Muhanda – Muzo,109.35297338729549,312.37374952722564,307.9212538182839,4.45249570894174,False,now
+Fastest now,Link Bigogwe – Nyabirasi,18.82454362961903,179.6177421538197,209.71815700331086,-30.10041484949116,False,+15 min
+Alternative 1,Link Nyabirasi – Rambura → Link Rambura – Bigogwe,54.75285126620493,188.36081155496944,207.46974908113555,-19.108937526166102,True,+15 min
+Alternative 2,Link Nyabirasi – Muhanda → Link Bigogwe – Muzo → Link Muhanda – Muzo,109.35297338729549,307.4326612237466,307.9212538182839,-0.48859259453729464,False,+15 min
